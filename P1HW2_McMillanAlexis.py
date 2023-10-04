@@ -6,6 +6,13 @@
 
 # Alexis McMillan
 
+Pseudocode
+#reading user budget
+#reading user destination
+#reading user fuel expenses
+#reading user hotel expenses
+#reading user food expenses
+#calculating remaining balance
 print("This program calculates and displays travel expenses")
 print("Enter Budget:",end =" ")
 budget=int(input())
