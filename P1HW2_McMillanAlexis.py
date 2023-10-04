@@ -27,3 +27,24 @@ print("Food: "+str(food))
 print()
 print("Remaining Balance"+str(budget-gas-hotel-food))
 
+This program calculates and displays travel expenses
+
+Enter Budget: 1200
+
+Enter your travel destination: North Carolina
+
+How much do you think you will spend on gas? 400
+
+Approximately, how much will you need for accomodation/hotel? 250
+
+Last, how much do you need for food? 200
+
+-----------Travel Expenses------------
+Location: North Carolina
+Initial Budget: 1200
+
+Fuel: 350
+Accomodation: 300
+Food: 200
+
+Remaining Balance: 350
